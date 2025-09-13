@@ -1,4 +1,6 @@
-<script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+<head>
+  <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+</head>
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">A passionate java full stack developer from India.</h3>
 
