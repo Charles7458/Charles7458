@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charles7458" alt="charles7458" /></a> </p>
 
 <!-- - 🔭 I’m currently working on _____. -->
-- 💻 My most recent project [30 Day Hackathon Weather App Challenge](https://github.com/Charles7458/weather-app)
+- 💻 My most recent project is [30 Day Hackathon Weather App Challenge](https://github.com/Charles7458/weather-app)
 
 - 🌱 I’m currently learning **spring boot**
 
