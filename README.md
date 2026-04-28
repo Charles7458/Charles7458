@@ -15,9 +15,9 @@
 - 📫 How to reach me **c.charles8547@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-| <a href="https://dev.to/@charles8547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@charles8547" height="30" width="40" /></a>
-| <a href="https://leetcode.com/u/Azlyxir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="charles8547" height="30" width="40" /></a> |
 
+| <a href="https://dev.to/@charles8547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@charles8547" height="30" width="40" /></a> | <a href="https://leetcode.com/u/Azlyxir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="charles8547" height="30" width="40" /></a> |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <h3 align="left">Languages and Tools:</h3>
 | </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
